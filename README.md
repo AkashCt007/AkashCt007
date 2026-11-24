@@ -1,98 +1,182 @@
-# Hey, I'm Akash 👋
+# AKASH CT
 
-### `AI/ML` × `GAME DEV` × `SOFTWARE`
+### `Initializing Akash.exe...`
 
-Building things, experimenting with ideas, and exploring the intersection of intelligence and creativity.
+**Engineering · Learning · Building**
 
-🎓 AI & ML Student · Saveetha Engineering College
+AI & ML student exploring the intersection of intelligent systems, creative technology, and software development.
 
----
-
-### 🧩 What I'm Into
-
-| 🤖 AI & ML | 🎮 Game Development | 💻 Software |
-|:---:|:---:|:---:|
-| Machine Learning | Game AI | Android Apps |
-| Deep Learning | Physics Systems | Software Engineering |
-| Reinforcement Learning | Intelligent NPCs | Cloud Computing |
+`AI / ML` · `GAME DEVELOPMENT` · `SOFTWARE ENGINEERING`
 
 ---
 
-### 🎮 Game Development
+## 01 / ABOUT
 
-*From gameplay mechanics to AI-driven worlds.*
+- 🎓 B.Tech AI & ML — Saveetha Engineering College.
+- 🤖 Exploring Machine Learning, Deep Learning & Reinforcement Learning.
+- 🎮 Building games and experimenting with intelligent NPCs.
+- 💻 Developing software and Android applications.
+- ☁️ Exploring Cloud Computing and AWS.
+
+---
+
+## 02 / GAME DEVELOPMENT
+
+*Building worlds, one experiment at a time.*
 
 <details>
-<summary>🕹️ Games & Experiments I've Built</summary>
+<summary>TRIAL CHAMBER — 2D PLATFORMER</summary>
 
-- **Trial Chamber** — 2D platformer with multiple levels and a boss fight.
-- **Physics Stacking** — 2D rigid-body physics and collision experiments.
-- **3D Ball Controller** — 3D movement and camera mechanics.
-- **Learning NPC** — Exploring NPC behaviour through Machine Learning and Reinforcement Learning.
+A 2D platformer featuring multiple levels, gameplay mechanics and a final boss.
+
+**Technologies:** Godot · GDScript
 
 </details>
 
 <details>
-<summary>🛠️ Game Development Toolkit</summary>
+<summary>PHYSICS LAB — GAME EXPERIMENTS</summary>
 
-[![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)](https://godotengine.org/)
-[![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)](https://unity.com/)
-[![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)](https://www.blender.org/)
-[![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=flat-square&logo=godotengine&logoColor=white)](https://docs.godotengine.org/)
+Exploring rigid-body physics, stacking mechanics, collisions and object interactions.
+
+**Technologies:** Godot · GDScript
+
+</details>
+
+<details>
+<summary>3D BALL CONTROLLER</summary>
+
+Experimenting with 3D movement, camera systems and physics-based gameplay.
+
+**Technologies:** Godot 4
+
+</details>
+
+<details>
+<summary>LEARNING NPC — AI EXPERIMENT</summary>
+
+Exploring Machine Learning and Reinforcement Learning to develop NPCs that adapt to player interactions.
+
+**Focus:** Game AI · ML · RL
 
 </details>
 
 ---
 
-### 🤖 AI & Machine Learning
+## 03 / ARTIFICIAL INTELLIGENCE
 
-<details>
-<summary>🧠 Explore My Interests</summary>
+*Making machines do more than follow instructions.*
 
 - Machine Learning & Deep Learning
 - Reinforcement Learning
 - Computer Vision & OpenCV
 - Lightweight AI models
-- AI-powered game mechanics
-
-</details>
+- Intelligent NPC behaviour
+- Real-time AI applications
 
 ---
 
-### ⚡ Tech Arsenal
+## 04 / PROGRAMMING LANGUAGES
+
+*Different languages. Different ways to build.*
+
+![Python](https://img.shields.io/badge/Python-5B4518?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-5B4518?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-5B4518?style=flat-square&logo=c&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-5B4518?style=flat-square&logo=kotlin&logoColor=white)
+![CSharp](https://img.shields.io/badge/C%23-5B4518?style=flat-square&logo=csharp&logoColor=white)
+![GDScript](https://img.shields.io/badge/GDScript-5B4518?style=flat-square&logo=godotengine&logoColor=white)
+
+---
+
+## 05 / SOFTWARE & TECHNOLOGIES
 
 <details>
-<summary>💻 Languages & Development</summary>
+<summary>🎮 GAME DEVELOPMENT & 3D</summary>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=flat-square&logo=godotengine&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-75613B?style=flat-square&logo=godotengine&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-75613B?style=flat-square&logo=unity&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-75613B?style=flat-square&logo=blender&logoColor=white)
 
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
+</details>
+
+<details>
+<summary>🤖 AI / ML & COMPUTER VISION</summary>
+
+![OpenCV](https://img.shields.io/badge/OpenCV-75613B?style=flat-square&logo=opencv&logoColor=white)
+![Python](https://img.shields.io/badge/Python-75613B?style=flat-square&logo=python&logoColor=white)
+
+Machine Learning · Deep Learning · Reinforcement Learning
+
+</details>
+
+<details>
+<summary>📱 APP & SOFTWARE DEVELOPMENT</summary>
+
+![Android Studio](https://img.shields.io/badge/Android_Studio-75613B?style=flat-square&logo=androidstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-75613B?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+Android Development · Software Engineering
+
+</details>
+
+<details>
+<summary>☁️ CLOUD & DEVELOPMENT TOOLS</summary>
+
+![AWS](https://img.shields.io/badge/AWS-75613B?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Git](https://img.shields.io/badge/Git-75613B?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-75613B?style=flat-square&logo=github&logoColor=white)
+
+Cloud Computing · Version Control
 
 </details>
 
 ---
 
-### 🔭 Currently Exploring
+## 06 / OTHER PROJECTS
 
-`Game AI` · `Reinforcement Learning` · `Deep Learning` · `3D Development`
+<details>
+<summary>📱 REQUIEM FOR A DREAM — ANDROID</summary>
+
+An Android-based distraction limiter exploring ways to reduce doomscrolling while preserving normal app usage.
+
+**Technologies:** Kotlin · Android Development
+
+</details>
+
+<details>
+<summary>🔐 CYBER LURE — CYBERSECURITY & ML</summary>
+
+A controlled-deception honeypot system for threat classification and real-world attack validation.
+
+**Technologies:** Python · Machine Learning · Cybersecurity
+
+</details>
+
+<details>
+<summary>🤖 DESK BUDDY ROBOT — ROBOTICS</summary>
+
+Exploring a desktop companion robot concept.
+
+</details>
 
 ---
 
-### 🌐 Find Me
+## 07 / CURRENTLY EXPLORING
 
-[![GitHub](https://img.shields.io/badge/GitHub-AkashCt007-181717?style=for-the-badge&logo=github)](https://github.com/AkashCt007)
+`Game AI` · `Reinforcement Learning` · `Deep Learning` · `3D Development` · `Cloud Computing`
+
+---
+
+## 08 / CONNECT
+
+[![GitHub](https://img.shields.io/badge/GitHub-AkashCt007-5B4518?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AkashCt007)
 
 ---
 
 <div align="center">
 
-**"Curiosity turns ideas into experiments. Experiments turn into creations."**
+**"Curiosity is the source code. Creativity is the output."**
+
+ENGINEERING · LEARNING · BUILDING
 
 </div>
