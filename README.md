@@ -77,8 +77,6 @@ Exploring Machine Learning and Reinforcement Learning to develop NPCs that adapt
 
 ## 04 / PROGRAMMING LANGUAGES
 
-*Different languages. Different ways to build.*
-
 ![Python](https://img.shields.io/badge/Python-5B4518?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-5B4518?style=flat-square&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-5B4518?style=flat-square&logo=c&logoColor=white)
@@ -175,8 +173,8 @@ Exploring a desktop companion robot concept.
 
 <div align="center">
 
-**"Curiosity is the source code. Creativity is the output."**
+### "Stay Hungry. Stay Foolish." 🤎
 
-ENGINEERING · LEARNING · BUILDING
+**ENGINEERING · LEARNING · BUILDING**
 
 </div>
